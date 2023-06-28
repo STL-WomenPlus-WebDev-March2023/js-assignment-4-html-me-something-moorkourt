@@ -1,1 +1,40 @@
-/* Write your CSS here! */
+body {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+    display: block;
+    background-color: lavenderblush;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif   ;
+
+    
+}
+#mainHeading {
+    color: red;
+}
+#testP.funParagraph {
+    color: green
+}
+#copyright{
+    text-align: center;
+}
+h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+figure {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
